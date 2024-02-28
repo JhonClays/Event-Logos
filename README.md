@@ -1,6 +1,12 @@
 # MarketingVideos
 A repo made for the Events Team to upload/ update logos to the game Pc's.
 
-for Canary warf event logos: [CW Logos](https://github.com/JhonClays/Event-Logos/tree/Event-Logos-CW).
+For Canary warf event Logos: [CW Logos](https://github.com/JhonClays/Event-Logos/tree/Event-Logos-CW).
 
-You can also delete,update videos on the [Videos folder](https://github.com/JhonClays/MarketingVideos/tree/main/Videos), but remember that the video file can't be more than 24MB of size.
+For City event Logos[City Logos](https://github.com/JhonClays/Event-Logos/tree/Event-Logos-CIty),
+
+Remember that the video file can't be more than 24MB of size.
+
+dimetions for game screen are: 1920 x1080p.
+
+dimentions for Leaderboards videos-images are: 1920x 1080p, portrait.
